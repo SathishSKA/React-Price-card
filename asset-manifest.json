@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-price-card/static/css/main.71ce3dd7.css",
+    "main.js": "/React-price-card/static/js/main.aaf12af1.js",
+    "static/js/787.a7e4d4d0.chunk.js": "/React-price-card/static/js/787.a7e4d4d0.chunk.js",
+    "index.html": "/React-price-card/index.html",
+    "main.71ce3dd7.css.map": "/React-price-card/static/css/main.71ce3dd7.css.map",
+    "main.aaf12af1.js.map": "/React-price-card/static/js/main.aaf12af1.js.map",
+    "787.a7e4d4d0.chunk.js.map": "/React-price-card/static/js/787.a7e4d4d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ce3dd7.css",
+    "static/js/main.aaf12af1.js"
+  ]
+}
